@@ -4,3 +4,6 @@
 
 layout: home
 ---
+# Infosec blog comming soon!
+
+###### Stay tuned...
